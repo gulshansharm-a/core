@@ -11,7 +11,9 @@
             "product": ".NET",
             "release-type" : "sts",
             "support-phase": "preview",
-            "releases.json": "https://dotnetcli.blob.core.windows.net/dotnet/release-metadata/9.0/releases.json"
+            "releases.json": "https://dotnetcli.blob.core.windows.net/dotnet/release-metadata/9.0/releases.json",
+            "releases-index.json": "https://dotnetcli.blob.core.windows.net/dotnet/release-metadata/9.0/releases-index.json",
+            "supported-os.json": "https://dotnetcli.blob.core.windows.net/dotnet/release-metadata/9.0/supported-os.json"
         },
         {
             "channel-version": "8.0",
@@ -24,7 +26,9 @@
             "release-type" : "lts",
             "support-phase": "active",
             "eol-date": "2026-11-10",
-            "releases.json": "https://dotnetcli.blob.core.windows.net/dotnet/release-metadata/8.0/releases.json"
+            "releases.json": "https://dotnetcli.blob.core.windows.net/dotnet/release-metadata/8.0/releases.json",
+            "releases-index.json": "https://dotnetcli.blob.core.windows.net/dotnet/release-metadata/8.0/releases-index.json",
+            "supported-os.json": "https://dotnetcli.blob.core.windows.net/dotnet/release-metadata/8.0/supported-os.json"
         },
         {
             "channel-version": "7.0",
@@ -37,7 +41,8 @@
             "release-type" : "sts",
             "support-phase": "maintenance",
             "eol-date": "2024-05-24",
-            "releases.json": "https://dotnetcli.blob.core.windows.net/dotnet/release-metadata/7.0/releases.json"
+            "releases.json": "https://dotnetcli.blob.core.windows.net/dotnet/release-metadata/7.0/releases.json",
+            "supported-os.json": "https://dotnetcli.blob.core.windows.net/dotnet/release-metadata/7.0/supported-os.json"
         },
         {
             "channel-version": "6.0",
